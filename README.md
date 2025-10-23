@@ -19,3 +19,8 @@ get_ipython().events.register('pre_run_cell', increase_font)
 ```
 
 This is strictly for stream. It was to increase output size for font and make displaying results on stream easier for viewers. You can literally not run this and everything works. So if you are walking through any of these notebooks and see that at the top (usually in a H1 header that I minimized while streaming), feel free to run it or ignore it completely or delete it. Will not effect any of the code or outputs after it. :)  
+
+# IF YOU SEE "INVALID NOTEBOOK" AND IT DOESN'T RENDER 
+
+You can access all the notebooks here (and they will render) 
+https://drive.google.com/drive/folders/1ObF828BAlJa4MDpR21jP6TgqzFk4ySPc?usp=drive_link
